@@ -23,8 +23,10 @@ namespace BetterSuspension
 
             FindObjectOfType<CarCollisionsC>().fineVelocity = 10; 
             FindObjectOfType<AntiRoll>().antiRollVal = 10000;
+
             ModHelper.Instance.laika.GetComponent<Rigidbody>().mass = 2400;
             ModHelper.Instance.laika.GetComponent<Rigidbody>().centerOfMass = new Vector3(0, -1.5f, 1.2f);
+
             FindObjectOfType<CarControleScriptC>().centerOfMass = new Vector3(0, - 3, 1);
         }
     }
