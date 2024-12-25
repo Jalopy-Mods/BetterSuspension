@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSuspension", "BetterSuspension\BetterSuspension.csproj", "{DB72FA2B-51BC-4D3A-AC56-399D3BD54EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB72FA2B-51BC-4D3A-AC56-399D3BD54EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB72FA2B-51BC-4D3A-AC56-399D3BD54EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB72FA2B-51BC-4D3A-AC56-399D3BD54EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB72FA2B-51BC-4D3A-AC56-399D3BD54EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CE2BA3-0536-4CB5-9CFD-4D532ACCE919}
+	EndGlobalSection
+EndGlobal
